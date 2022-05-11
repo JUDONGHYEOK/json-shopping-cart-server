@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "록바1",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 2,
+      "title": "록바2",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 3,
+      "title": "록바3",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 4,
+      "title": "록바4",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 5,
+      "title": "록바5",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 6,
+      "title": "록바6",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 7,
+      "title": "록바7",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 8,
+      "title": "록바8",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 9,
+      "title": "록바9",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 10,
+      "title": "록바10",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 1,
+      "title": "록바1",
+      "price": 3000000,
+      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    }
+  ]
+}
